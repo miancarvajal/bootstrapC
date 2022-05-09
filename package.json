@@ -1,0 +1,19 @@
+{
+  "name": "bootstrapc",
+  "version": "1.0.0",
+  "description": "Curso de bootstrap con coursera",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miancarvajal/bootstrapC.git"
+  },
+  "author": "Miguel Angel Carvajal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miancarvajal/bootstrapC/issues"
+  },
+  "homepage": "https://github.com/miancarvajal/bootstrapC#readme"
+}
