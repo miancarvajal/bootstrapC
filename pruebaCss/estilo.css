@@ -1,3 +1,6 @@
+.jumbotron{
+	color: #8A1E64;
+}
 h1{
 	text-align:center;
 }
@@ -12,12 +15,13 @@ h6{
 
 .card-server{
 	background-color: #64A52F;
-	color: white;
+	color: #262AE7;
 	text-align:center;
 	margin-left:1%;
 	margin-right:1%;
 	padding: 2%;
 }
+
 
 .boton{
 	background-color: #6F4AC1;
@@ -35,7 +39,8 @@ h6{
 	
 }
 p{
-	margin-left:25%;
+	margin-left:10%;
+	color: white;
 }
 .mensaje{
 	color: blue;
