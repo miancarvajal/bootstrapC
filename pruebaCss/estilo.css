@@ -7,5 +7,43 @@ h2{
 }
 
 h6{
-	color: green;
+	color: #596ED6;
 }	
+
+.card-server{
+	background-color: #64A52F;
+	color: white;
+	text-align:center;
+	margin-left:1%;
+	margin-right:1%;
+	padding: 2%;
+}
+
+.boton{
+	background-color: #6F4AC1;
+	color: white;
+}
+.pie-pagina{
+	background-color: #CEAD2D;
+	padding-right:85%;
+	text-align: center;	
+}
+.letra-pie{
+	background-color: #CEAD2D;
+	padding-right:10%;
+	margin-right: -500%;
+	
+}
+p{
+	margin-left:25%;
+}
+.mensaje{
+	color: blue;
+	margin-right: -500%;
+	font-size: 20px;
+}
+.company{
+	text-align: center;
+	font-size: 25px;
+	margin-right: -500%;
+}
