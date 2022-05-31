@@ -1,6 +1,11 @@
 .jumbotron{
 	color: #8A1E64;
+	margin-top:10%;
 }
+
+body.jumbotron {}
+
+body.jumbotron {}
 h1{
 	text-align:center;
 }
@@ -29,14 +34,6 @@ h6{
 }
 .pie-pagina{
 	background-color: #CEAD2D;
-	padding-right:85%;
-	text-align: center;	
-}
-.letra-pie{
-	background-color: #CEAD2D;
-	padding-right:10%;
-	margin-right: -500%;
-	
 }
 p{
 	margin-left:10%;
@@ -44,11 +41,15 @@ p{
 }
 .mensaje{
 	color: blue;
-	margin-right: -500%;
 	font-size: 20px;
 }
 .company{
 	text-align: center;
 	font-size: 25px;
 	margin-right: -500%;
+}
+
+.base{
+	margin-top: 125%;
+	background-color: blue;
 }
