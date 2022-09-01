@@ -4,8 +4,6 @@
 }
 
 body.jumbotron {}
-
-body.jumbotron {}
 h1{
 	text-align:center;
 }
@@ -34,6 +32,7 @@ h6{
 }
 .pie-pagina{
 	background-color: #CEAD2D;
+	text-align:center;
 }
 p{
 	margin-left:10%;
@@ -46,7 +45,6 @@ p{
 .company{
 	text-align: center;
 	font-size: 25px;
-	margin-right: -500%;
 }
 
 .base{
